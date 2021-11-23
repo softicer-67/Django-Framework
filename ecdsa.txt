@@ -1,0 +1,32 @@
+bGeAasnFrX3LRZw1E7AmFYC0/Fg8jIsWKzTNt3AD3x8
+
+
+
+Your identification has been saved in /root/.ssh/id_rsa
+Your public key has been saved in /root/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:mAmNK3RuIAkQtp2wHclsnvJGDh7HviZoao4h8tc4BOI root@80-78-241-136.cloudvps.regruhosting.ru
+The key's randomart image is:
++---[RSA 3072]----+
+|=+o..            |
+|o.*=oo           |
+|oo*+= .          |
+|.*.X o +         |
+|o.@.+ + S        |
+| E B.            |
+|= ...o           |
+|=* o+ .          |
+|B.+. .           |
++----[SHA256]-----+
+root@80-78-241-136:~#
+
+
+root@80-78-241-136:~# cat /root/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDHrTaavZ8nB5jvxOJMHucu0KSGmkKWydc9/hbEnGuhlfKn5eRu2z14CizrU/G7Jt1Z6x6dDnkrhWUc8dD0cl+OA1ePc+4IdAljVgu/pTLq
+vNruh6wIImpiBfm2pLC08ynVjYjwN4t5Pge6kcFdk2h1kH6Q2NbAPHt0ikvjJ/NzANjJzeGmsHQdX2/LLpnaylqhTMM7BDkfpzW37UXOGTzKzLrtiiaXWrqnl6c8klG0HvsM1mKckQ9O2Ydf
+DAxXVUG/0R4XOThlNzbaCkfamBI4c0DMpT6RLeR5l/fWWiVmd1ax8ZHNKyMO64oy34DkbglKs+cjJdD8HZSOx/fowDw1uK8cM3Tp9fcKKcB+6zvJYPBr6H3k8/LOpvapkrbFjWS+Le2RbYCy
+zxTVU4p3qT+0QcFLAJ/vKW8TpKYzKlotn+aQCXYBepnleqwWDxeIMlyAxej/iX1zim1VsmzV/qmCsyAq9CZpfXdr92APLliOMpcmFMztbUNKy8V4MxEh75E= root@80-78-241-136.clou
+dvps.regruhosting.ru
+
+
+
